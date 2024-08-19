@@ -1,4 +1,4 @@
-## Developer Portfolio Landing Page Template
+## ShiCodes Portfolio Landing Page 
 
 ### Introduction
 
